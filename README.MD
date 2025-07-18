@@ -108,6 +108,7 @@ Your final submission should include:
 
 ## Resources
 
+- [Git Tutorial](https://www.w3schools.com/git/default.asp?remote=github)
 - [MDN HTML Documentation](https://developer.mozilla.org/en-US/docs/Web/HTML)
 - [CSS Grid Guide](https://css-tricks.com/snippets/css/complete-guide-grid/)
 - [JavaScript DOM Manipulation](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model)
